@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<configuration status="OFF">
+<configuration status="OFF" monitorInterval="30">
+    <properties>
+        <property name="log_path">
+            /Users/gxf/Desktop/
+        </property>
+        <property name="file_name1">
+            log.html
+        </property>
+        <property name="file_name2">
+            log2.txt
+        </property>
+    </properties>
     <appenders>
         <Console name="Console" target="SYSTEM_OUT">
             <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
         </Console>
+        <File name="File1" fileName="${file_name1}" append="true">
+            <HTMLLayout title="日志"/>
+        </File>
+        <File name="File2" fileName="${file_name2}" append="true">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
     </appenders>
 
-    <loggers>
-        <logger name="com.gxf.log4j.Log4jDemo" level="info" additivity="false">
+    <Loggers>
+        <!--<Logger name="com.gxf.log4j.Log4jDemo" level="info" additivity="false">-->
+
+        <!--</Logger>-->
+        <Root level="info">
             <appender-ref ref="Console"/>
-        </logger>
-        <root level="all">
-            <appender-ref ref="Console"/>
-        </root>
-    </loggers>
+            <appender-ref ref="File1"/>
+            <appender-ref ref="File2"/>
+        </Root>
+    </Loggers>
 
 </configuration>
