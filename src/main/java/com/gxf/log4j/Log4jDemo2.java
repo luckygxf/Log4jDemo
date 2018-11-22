@@ -9,8 +9,8 @@ import org.apache.logging.log4j.Logger;
  * @Description:
  * @Date: Created in : 2018/11/21 5:05 PM
  **/
-public class Log4jDemo1 {
-  private static Logger logger = LogManager.getLogger(Log4jDemo1.class.getName());
+public class Log4jDemo2 {
+  private static Logger logger = LogManager.getLogger(Log4jDemo2.class.getName());
 
   public static void main(String[] args)
   {

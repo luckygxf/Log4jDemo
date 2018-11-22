@@ -1,48 +1,191 @@
-17:06:28.449 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:28.451 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:28.451 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:28.451 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:29.453 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:29.453 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:29.454 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:29.454 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:30.456 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:30.457 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:30.457 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:30.457 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:31.462 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:31.462 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:31.462 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:31.463 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:32.467 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:32.467 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:32.468 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:32.468 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:33.469 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:33.470 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:33.470 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:33.470 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:34.473 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:34.474 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:34.474 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:34.474 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:35.479 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:35.480 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:35.480 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:35.481 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:36.484 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:36.485 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:36.485 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:36.486 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:37.490 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:37.490 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:37.491 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:37.491 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:38.493 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:38.493 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:38.494 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:38.494 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
-17:06:39.495 [main] ERROR com.gxf.log4j.Log4jDemo1 - Did it again!
-17:06:39.495 [main] INFO  com.gxf.log4j.Log4jDemo1 - 我是info信息
-17:06:39.495 [main] WARN  com.gxf.log4j.Log4jDemo1 - 我是warn信息
-17:06:39.496 [main] FATAL com.gxf.log4j.Log4jDemo1 - 我是fatal信息
+11:28:56.829 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:28:56.831 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:28:56.832 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:28:56.832 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:28:57.832 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:28:57.833 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:28:57.833 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:28:57.833 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:28:58.838 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:28:58.840 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:28:58.841 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:28:58.841 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:28:59.844 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:28:59.845 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:28:59.845 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:28:59.845 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:00.846 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:00.847 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:00.847 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:00.847 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:01.850 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:01.850 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:01.850 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:01.851 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:06.915 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:06.917 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:06.917 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:06.917 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:07.921 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:07.922 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:07.922 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:07.922 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:08.923 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:08.924 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:08.924 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:08.924 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:09.927 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:09.928 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:09.928 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:09.928 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:29.356 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:29.358 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:29.359 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:29.359 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:30.363 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:30.364 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:30.364 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:30.365 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:31.366 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:31.367 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:31.367 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:31.367 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:32.372 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:32.372 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:32.372 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:32.373 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:33.377 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:33.377 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:33.378 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:33.378 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:56.713 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:56.715 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:56.716 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:56.716 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:57.720 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:57.721 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:57.721 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:57.721 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:58.725 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:58.726 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:58.726 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:58.726 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:29:59.730 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:29:59.731 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:29:59.731 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:29:59.731 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:11.824 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:11.828 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:11.828 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:11.828 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:12.831 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:12.832 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:12.832 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:12.832 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:13.837 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:13.837 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:13.838 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:13.838 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:14.843 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:14.844 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:14.844 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:14.845 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:15.847 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:15.848 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:15.848 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:15.848 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:16.853 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:16.853 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:16.854 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:16.854 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:17.858 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:17.859 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:17.859 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:17.859 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:18.863 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:18.863 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:18.863 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:18.863 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:19.867 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:19.868 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:19.868 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:19.868 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:20.871 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:20.872 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:20.872 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:20.872 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:21.873 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:21.873 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:21.873 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:21.874 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:22.879 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:22.879 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:22.879 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:22.880 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:23.881 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:23.882 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:23.882 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:23.882 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:24.884 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:24.884 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:24.885 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:24.885 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:50.169 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:50.171 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:50.171 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:50.172 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:51.176 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:51.176 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:51.177 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:51.177 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:52.179 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:52.179 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:52.179 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:52.180 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:53.185 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:53.185 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:53.186 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:53.186 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:54.187 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:54.188 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:54.188 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:54.188 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:55.190 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:55.191 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:55.191 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:55.191 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:56.195 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:56.195 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:56.195 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:56.196 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:57.200 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:57.200 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:57.201 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:57.201 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:58.204 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:58.204 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:58.205 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:58.205 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:41:59.208 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:41:59.211 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:41:59.212 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:41:59.212 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:42:00.216 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:42:00.216 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:42:00.217 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:42:00.217 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:42:01.221 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:42:01.221 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:42:01.221 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:42:01.222 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:48:03.678 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:04.685 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:05.688 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:06.690 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:07.695 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:08.698 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:09.699 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:10.704 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:11.704 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:12.709 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456
+11:48:13.712 [main] INFO  com.gxf.log4j.MarkerLogger - username:root password:123456

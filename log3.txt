@@ -1,0 +1,16 @@
+11:28:34.465 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:28:34.466 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:28:34.467 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:28:34.467 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:28:35.469 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:28:35.469 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:28:35.469 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:28:35.470 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:28:36.471 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:28:36.472 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:28:36.472 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:28:36.472 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息
+11:28:37.475 [main] ERROR com.gxf.log4j.Log4jDemo2 - Did it again!
+11:28:37.476 [main] INFO  com.gxf.log4j.Log4jDemo2 - 我是info信息
+11:28:37.476 [main] WARN  com.gxf.log4j.Log4jDemo2 - 我是warn信息
+11:28:37.476 [main] FATAL com.gxf.log4j.Log4jDemo2 - 我是fatal信息

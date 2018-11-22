@@ -11,6 +11,12 @@
         <property name="file_name2">
             log2.txt
         </property>
+        <property name="file_name3">
+            log3.txt
+        </property>
+        <property name="error_file_name">
+            error.txt
+        </property>
     </properties>
     <appenders>
         <Console name="Console" target="SYSTEM_OUT">
@@ -22,16 +28,27 @@
         <File name="File2" fileName="${file_name2}" append="true">
             <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
         </File>
+        <File name="File3" fileName="${file_name3}" append="true">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+        <File name="Error_File" fileName="${error_file_name}" append="true">
+            <ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
     </appenders>
 
     <Loggers>
-        <!--<Logger name="com.gxf.log4j.Log4jDemo" level="info" additivity="false">-->
-
-        <!--</Logger>-->
+        <Logger name="com.gxf.log4j.Log4jDemo2" level="info" additivity="true" includeLocation="false">
+            <!--<appender-ref ref="Error_File"/>-->
+        </Logger>
+        <Logger name="com.gxf.log4j.MarkerLogger" level="info" additivity="true" includeLocation="false">
+            <!--<appender-ref ref="Error_File"/>-->
+        </Logger>
         <Root level="info">
             <appender-ref ref="Console"/>
             <appender-ref ref="File1"/>
             <appender-ref ref="File2"/>
+            <appender-ref ref="Error_File"/>
         </Root>
     </Loggers>
 
